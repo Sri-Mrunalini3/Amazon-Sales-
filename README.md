@@ -1,6 +1,6 @@
 # Amazon-Sales-Dashboard
 Objective </br>
-Analyze and visualize key aspects of Amazon's sales data including sales performance by product category, customer segment, region, and sales channel. 
+Analyze and visualize key aspects of Amazon's sales data including sales performance by product category, customer segment, region, and sales channel. </br>
 Insights </br>
 Standard class is favourite among customers. </br>
 West region is highest profitable. </br>
